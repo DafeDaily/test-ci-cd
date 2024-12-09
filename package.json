@@ -4,6 +4,7 @@
   "main": "jest.config.js",
   "scripts": {
     "build": "webpack",
+    "test": "jest",
     "start": "webpack serve"
   },
   "keywords": [],
